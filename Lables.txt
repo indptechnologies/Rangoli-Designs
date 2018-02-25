@@ -1,0 +1,19 @@
+Color Rangoli				Catagiry_01
+Dots Rangooli				Catagiry_02
+Multi Color Rangoli			Catagiry_03
+Lights Rangoli				Catagiry_04
+Lines Rangoli				Catagiry_06	
+Bengali Rangoli				Catagiry_06	
+Diwali Rangoli				Catagiry_07	
+Dot Rangoli				Catagiry_08	
+Ganesh Rangoli 	 			Catagiry_09		
+Lakshmi Pada Rangoli			Catagiry_10	
+Hridaya Kamalam Rangoli			Catagiry_11	
+Sankranti Rangoli			Catagiry_12	
+Ratham Rangoli				Catagiry_13	
+Lord Shiva Rangoli			Catagiry_14	
+Naga Panchami Rangoli			Catagiry_15	
+Sarsawathi Rangoli			Catagiry_16	
+Tulasi Rangoli				Catagiry_17	
+Navagraha Rangoli			Catagiry_18	
+Gudi Padwa Rangoli			Catagiry_19	
